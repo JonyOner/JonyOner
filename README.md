@@ -13,6 +13,9 @@
 <a href="https://www.linkedin.com/in/.../">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
+<a href="https://facebook.com/jony.oner/"
+  <img height="50" ![image](https://github.com/user-attachments/assets/d3f3deb5-dd98-42e5-89ea-03e938c18716) />
+
 <a href="https://dev.to/...">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
@@ -48,7 +51,7 @@ fields_of_interests:
     "DevOps",
   ]
   
-currently_learning: ["JavaScript, HTML, CSS, Bootstrap"]
+currently_learning: ["JS, HTML, CSS, Bootstrap, Git, Github. VSC"]
 hobbies: ["Gaming", "Cinema", "Music", "Art", "Comedy"]
 ```
   

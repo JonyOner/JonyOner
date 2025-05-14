@@ -18,6 +18,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Deploy to GitHub Pages
+      # funciona ya, por dios
       - uses: crazy-max/ghaction-github-pages@v4.2.0
         with:
           target_branch: output

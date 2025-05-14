@@ -7,14 +7,11 @@
 </h1>
 
 <p align="center">
-  <a href="https://facebook.com/jony.oner">
-    <img  height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/instagram.svg" width="40" alt="Facebook"/>
-  </a>
+<a href="https://www.facebook.com/jony.oner>
+<img  height="50" src="https://github.com/user-attachments/assets/c1e302d2-d34d-4bd7-86b0-f27aadc954eb" />
+</a>
 <a href="https://www.linkedin.com/in/.../">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://facebook.com/jony.oner/"
-  <img ![Image](https://github.com/user-attachments/assets/38294626-cd0f-4e6e-a23e-50120ad367dd) />
 </a>
 <a href="https://dev.to/...">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>

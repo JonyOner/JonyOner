@@ -19,8 +19,10 @@
 <a href="https://www.instagram.com/jony_oner/">
   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg"/>
 </a>
-  <a href="https://www.facebook.com/jony.oner/">
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg?color=%231877F2" />
+ <a href="https://www.facebook.com/jony.oner/">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#1877F2" height="50" width="50">
+    <path d="M22.675 0h-21.35c-.82 0-1.475.654-1.475 1.475v21.05c0 .82.654 1.475 1.475 1.475h11.495v-9.28h-3.125v-3.625h3.125v-2.675c0-3.1 1.825-4.75 4.625-4.75 1.35 0 2.75.25 2.75.25v3.125h-1.55c-1.5 0-2.25.75-2.25 2.25v2.875h3.5l-.5 3.625h-3.5v9.28h6.875c.82 0 1.475-.654 1.475-1.475v-21.05c0-.82-.654-1.475-1.475-1.475z"/>
+  </svg>
 </a>
 </p>
 

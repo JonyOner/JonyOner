@@ -7,9 +7,6 @@
 </h1>
 
 <p align="center">
-<a href="https://www.facebook.com/jony.oner>
-<img  height="50" src="https://github.com/user-attachments/assets/c1e302d2-d34d-4bd7-86b0-f27aadc954eb" />
-</a>
 <a href="https://www.linkedin.com/in/.../">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>

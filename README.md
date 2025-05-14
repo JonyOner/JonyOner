@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/.../">
-  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linkedin.svg"/>
+  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"/>
 </a>
 <a href="mailto:jonyoner@gmail.com">
   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Gmail" />

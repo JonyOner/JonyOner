@@ -7,11 +7,11 @@
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/.../">
-  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"/>
-</a>
 <a href="mailto:jonyoner@gmail.com">
   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/.../">
+  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"/>
 </a>
 <a href="https://x.com/jony__oner">
   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg"/>

@@ -7,9 +7,9 @@
 </h1>
 
 <p align="center">
- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jony.oner)
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+  <a href="https://facebook.com/jony.oner">
+    <img  height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Facebook.svg" width="40" alt="Facebook"/>
+  </a>
 <a href="https://www.linkedin.com/in/.../">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>

@@ -10,6 +10,9 @@
 <a href="https://www.linkedin.com/in/.../">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
+  <p align="center">
+  <img src="assets/facebook.png" height="50" alt="Descripción de la imagen">
+</p>
 <a href= [jonyoner@gmail.com](mailto:jonyoner@gmail.com)
   </a>
 <a href="https://x.com/jony__oner">

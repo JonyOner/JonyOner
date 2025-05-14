@@ -20,7 +20,7 @@
   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg"/>
 </a>
   <a href="https://www.facebook.com/jony.oner/">
-  <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/facebook.svg"/>
+  <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/facebook.svg" style="fill:#1877F2;" />
 </a>
 </p>
 

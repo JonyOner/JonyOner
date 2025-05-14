@@ -10,11 +10,9 @@
 <a href="https://www.linkedin.com/in/.../">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-  <p align="center">
-  <img src="assets/facebook.png" height="50" alt="Descripción de la imagen">
-</p>
-<a href= [jonyoner@gmail.com](mailto:jonyoner@gmail.com)
-  </a>
+<a href="mailto:jonyoner@gmail.com">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="40" alt="Gmail" />
+</a>
 <a href="https://x.com/jony__oner">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>

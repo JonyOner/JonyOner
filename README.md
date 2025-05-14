@@ -10,9 +10,8 @@
 <a href="https://www.linkedin.com/in/.../">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://dev.to/...">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-</a>
+<a href= [jonyoner@gmail.com](mailto:jonyoner@gmail.com)
+  </a>
 <a href="https://x.com/jony__oner">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
@@ -74,6 +73,8 @@ hobbies: ["Gaming", "Cinema", "Music", "Art", "Comedy"]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+![Snake animation](https://github.com/JonyOner/JonyOner/blob/output/github-contribution-grid-snake.svg)
 
 
 

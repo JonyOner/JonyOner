@@ -41,11 +41,11 @@ education:
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
+    "Mobile App Development",
+    "E-Commerce",
+    "Api Development",
     "Game Development",
-    "DevOps",
+    "SaaS",
   ]
   
 currently_learning: ["JS, HTML, CSS, Bootstrap, Git, Github. VSC"]

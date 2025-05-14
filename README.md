@@ -20,9 +20,7 @@
   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg"/>
 </a>
  <a href="https://www.facebook.com/jony.oner/">
-  <a href="https://www.facebook.com/jony.oner/">
-  <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/facebook.svg" style="filter: invert(19%) sepia(65%) saturate(425%) hue-rotate(194deg) brightness(95%) contrast(94%);" />
-</a>
+  <img height="50" src="https://githubusercontent.com/JonyOner/JonyOner//main/assets" />
 </a>
 </p>
 

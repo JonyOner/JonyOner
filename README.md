@@ -14,7 +14,8 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://facebook.com/jony.oner/"
-  <img height="50" src="https://github.com/user-attachments/assets/d3f3deb5-dd98-42e5-89ea-03e938c18716" />
+![Image](https://github.com/user-attachments/assets/38294626-cd0f-4e6e-a23e-50120ad367dd)
+</a>
 
 <a href="https://dev.to/...">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>

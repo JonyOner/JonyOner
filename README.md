@@ -68,10 +68,10 @@ hobbies: ["Gaming", "Cinema", "Music", "Art", "Comedy"]
 
 <h2> 🚀 &nbsp;My Github Stats</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=375 align="left" src="https://github-readme-stats.vercel.app/api?username=JonyOner&show_icons=true&theme=noctis-minimus" />
+  <img height=200 width=375 align="left" src="https://github-readme-stats.vercel.app/api?username=JonyOner&show_icons=true&theme=aura" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width= 375 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonyOner&layout=compact&langs_count=8&card_width=320&theme=noctis-minimus" />
+  <img height=200 width= 375 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonyOner&layout=compact&langs_count=8&card_width=320&theme=aura" />
 </a>
 
 ![Snake animation](https://github.com/JonyOner/JonyOner/blob/output/github-contribution-grid-snake.svg)

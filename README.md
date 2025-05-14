@@ -64,13 +64,22 @@ hobbies: ["Gaming", "Cinema", "Music", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> 
 </p>
 
+---
+
+<h2> 🚀 &nbsp;My Stats</h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JonyOner&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonyOner&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<p align="center" ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonyOner&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-</p>
+
+
 
 
 

@@ -11,10 +11,10 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="mailto:jonyoner@gmail.com">
-  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="40" alt="Gmail" />
+  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Gmail" />
 </a>
 <a href="https://x.com/jony__oner">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg"/>
 </a>
 <a href="https://www.instagram.com/jony_oner/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>

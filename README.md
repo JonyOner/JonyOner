@@ -19,8 +19,8 @@
 <a href="https://www.instagram.com/jony_oner/">
   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg"/>
 </a>
- <a href="https://www.facebook.com/jony.oner/">
-  <img height="50" src="https://githubusercontent.com/JonyOner/JonyOner//main/assets" />
+<a href="https://www.facebook.com/jony.oner/">
+  <img height="50" src="https://github.com/JonyOner/JonyOner/blob/main/facebook.png" alt="Facebook" />
 </a>
 </p>
 

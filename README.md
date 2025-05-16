@@ -66,7 +66,7 @@ hobbies: ["Gaming", "Cinema", "Music", "Art", "Comedy"]
 
 ---
 
-<h2> 🚀 &nbsp;My Github Stats</h2>
+<h2> 📊 &nbsp;My Github Stats</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 width=375 align="left" src="https://github-readme-stats.vercel.app/api?username=JonyOner&show_icons=true&theme=aura" />
 </a>

@@ -10,7 +10,7 @@
 <a href="mailto:jonyoner@gmail.com">
   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Gmail" />
 </a>
-<a href="https://www.linkedin.com/in/jonathan-feijoó-diaz-02aa26366/">
+<a href="www.linkedin.com/in/jonathan-feijoo-dev">
   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"/>
 </a>
 <a href="https://x.com/jony__oner">

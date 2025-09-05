@@ -36,6 +36,7 @@ education:
   [
     "4 geeks academy full stack developer",
     "Bachelor's of humanities",
+    "Midudev's booster course, 
   ]
 
 fields_of_interests:
@@ -48,7 +49,7 @@ fields_of_interests:
     "SaaS",
   ]
   
-currently_learning: ["JS, HTML, CSS, Bootstrap, Git, Github. VSC"]
+currently_learning: ["JS, HTML, Python, CSS, Bootstrap, Git, Github. VSC"]
 hobbies: ["Gaming", "Cinema", "Music", "Art", "Comedy"]
 ```
   

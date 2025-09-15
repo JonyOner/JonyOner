@@ -35,8 +35,9 @@ current_job: Full Stack Developer (in process)
 education:
   [
     "4 geeks academy full stack developer",
+    "B1 english for developers",
     "Bachelor's of humanities",
-    "Midudev's booster course, 
+    "Midudev's booster course", 
   ]
 
 fields_of_interests:
